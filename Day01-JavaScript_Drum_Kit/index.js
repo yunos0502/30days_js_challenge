@@ -64,24 +64,6 @@ const keyList = [
   }
 ];
 
-function removeTransition(e) {
-  if (e.propertyName !== "transform") return;
-
-  e.target.classList.remove("playing");
-}
-
-function playSound(e) {
-  let keyCode = e.keyCode;
-  let key = document.querySelector(`.key[data-key="${keyCode}"]`);
-  let audio = document.querySelector(`audio[data-key="${keyCode}"]`);
-
-  if (!audio) return;
-
-  key && key.classList.add("playing");
-  audio.currentTime = 0;
-  audio.play();
-}
-
 (function() {
   const parent = document.createElement("div");
   const keys = document.createElement("div");
@@ -103,6 +85,24 @@ function playSound(e) {
   parent.prepend(keys);
   document.body.prepend(parent);
 })();
+
+function removeTransition(e) {
+  if (e.propertyName !== "transform") return;
+
+  e.target.classList.remove("playing");
+}
+
+function playSound(e) {
+  let keyCode = e.keyCode;
+  let key = document.querySelector(`.key[data-key="${keyCode}"]`);
+  let audio = document.querySelector(`audio[data-key="${keyCode}"]`);
+
+  if (!audio) return;
+
+  key && key.classList.add("playing");
+  audio.currentTime = 0;
+  audio.play();
+}
 
 const keys = Array.from(document.querySelectorAll(".key"));
 keys.map((key) => key.addEventListener("transitionend", removeTransition));
