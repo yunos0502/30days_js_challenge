@@ -6,3 +6,6 @@ https://q92bz.csb.app/
 
 ## Day02 - JS and CSS Clock
 https://2gqs4.csb.app/
+
+## Day03 - CSS Variables
+https://58ubl.csb.app/
