@@ -9,3 +9,6 @@ https://2gqs4.csb.app/
 
 ## Day03 - CSS Variables
 https://58ubl.csb.app/
+
+## Day04 - Array Cardio Day 1
+https://bj4gx.csb.app/
