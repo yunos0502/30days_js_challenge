@@ -15,3 +15,6 @@ https://bj4gx.csb.app/
 
 ## Day05 - Flex Panel Gallery
 https://lhvm2.csb.app/
+
+## Day06 - Type Ahead
+https://f4f5d.csb.app/
