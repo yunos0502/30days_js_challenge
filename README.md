@@ -18,3 +18,6 @@ https://lhvm2.csb.app/
 
 ## Day06 - Type Ahead
 https://f4f5d.csb.app/
+
+## Day07 - Array Cardio Day 2
+https://j6414.csb.app/
