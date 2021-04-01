@@ -33,3 +33,7 @@
 ## Day08 - Fun with HTML5 Canvas
 
 <https://xsvbz.csb.app/>
+
+## Day09 - Dev Tools Domination
+
+<https://h7j3l.csb.app/>
