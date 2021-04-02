@@ -37,3 +37,7 @@
 ## Day09 - Dev Tools Domination
 
 <https://h7j3l.csb.app/>
+
+## Day10 - Hold Shift and Check Checkboxes
+
+<https://n72en.csb.app/>
