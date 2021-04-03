@@ -41,3 +41,7 @@
 ## Day10 - Hold Shift and Check Checkboxes
 
 <https://n72en.csb.app/>
+
+## Day11 - Custom Video Player
+
+<https://oip2h.csb.app/>
