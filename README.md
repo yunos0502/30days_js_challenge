@@ -53,3 +53,7 @@
 ## Day13 - Slide in on Scroll
 
 <https://rk959.csb.app/>
+
+## Day14 - JavaScript References VS Copying
+
+<https://nlk9g.csb.app/>
