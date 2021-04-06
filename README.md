@@ -45,3 +45,7 @@
 ## Day11 - Custom Video Player
 
 <https://oip2h.csb.app/>
+
+## Day12 - Key Sequence Detection
+
+<https://opvdl.csb.app/>
