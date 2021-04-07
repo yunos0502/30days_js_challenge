@@ -57,3 +57,7 @@
 ## Day14 - JavaScript References VS Copying
 
 <https://nlk9g.csb.app/>
+
+## Day15 - LocalStorage
+
+<https://tgo6j.csb.app/>
