@@ -61,3 +61,7 @@
 ## Day15 - LocalStorage
 
 <https://tgo6j.csb.app/>
+
+## Day16 - Mouse Move Shadow
+
+<https://kg8wb.csb.app/>
