@@ -69,3 +69,7 @@
 ## Day17 - Sort Without Articles
 
 <https://37kkv.csb.app/>
+
+## Day18 - Adding Up Times with Reduce
+
+<https://tr4i3.csb.app/>
