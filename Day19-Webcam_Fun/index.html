@@ -4,13 +4,13 @@
 <head>
   <meta charset="UTF-8">
   <title>Get User Media Code Along!</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 
 <body>
   <div class="photobooth">
     <div class="controls">
-      <button onclick="takePhoto()">Take Photo</button>
+      <button class="takePhotoBtn">Take Photo</button>
       <div class="rgb">
         <label for="rmin">Red Min:</label>
         <input type="range" min="0" max="255" name="rmin">
@@ -36,6 +36,6 @@
 
   <audio class="snap" src="./snap.mp3" hidden></audio>
 
-  <script src="index.js"></script>
+  <script src="./index.js"></script>
 </body>
 </html>

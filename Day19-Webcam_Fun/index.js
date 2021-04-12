@@ -3,6 +3,7 @@ const canvas = document.querySelector(".photo");
 const ctx = canvas.getContext("2d");
 const strip = document.querySelector(".strip");
 const snap = document.querySelector(".snap");
+const takePhotoBtn = document.querySelector('.takePhotoBtn');
 
 function getVideo() {
   navigator.mediaDevices.getUserMedia({ video: true, audio: false })
@@ -99,3 +100,4 @@ function greenScreen(pixels) {
 getVideo();
 
 video.addEventListener('canplay', paintToCanvas);
+takePhotoBtn.addEventListener('click', takePhoto);
