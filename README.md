@@ -76,5 +76,18 @@
 
 ## Day19 - Webcam Fun
 
-```yarn start```
+```javascript
+yarn
+yarn start
+```
+
 <https://01jt6.csb.app/>
+
+## Day20 - Speech Detection
+
+```javascript
+yarn
+yarn start
+```
+
+<https://7lwt2.csb.app/>
