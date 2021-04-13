@@ -91,3 +91,9 @@ yarn start
 ```
 
 <https://7lwt2.csb.app/>
+
+## Day21 - Geolocation
+
+Xcode에서 simulator 실행 후 safari에서 동작 확인
+
+<https://xyk0h.csb.app/>
