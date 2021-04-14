@@ -97,3 +97,7 @@ yarn start
 Xcode에서 simulator 실행 후 safari에서 동작 확인
 
 <https://xyk0h.csb.app/>
+
+## Day22 - Follow Along Link Highlighter
+
+<https://hgwml.csb.app/>
