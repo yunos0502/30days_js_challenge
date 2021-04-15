@@ -101,3 +101,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day22 - Follow Along Link Highlighter
 
 <https://hgwml.csb.app/>
+
+## Day23 - Speech Synthesis
+
+<https://kbmur.csb.app/>
