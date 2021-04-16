@@ -105,3 +105,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day23 - Speech Synthesis
 
 <https://kbmur.csb.app/>
+
+## Day24 - Sticky Nav
+
+<https://z42kf.csb.app/>
