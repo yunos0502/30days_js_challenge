@@ -109,3 +109,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day24 - Sticky Nav
 
 <https://z42kf.csb.app/>
+
+## Day25 - Event Capture, Propagation, Bubbling and Once
+
+<https://9qz10.csb.app/>
