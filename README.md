@@ -113,3 +113,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day25 - Event Capture, Propagation, Bubbling and Once
 
 <https://9qz10.csb.app/>
+
+## Day26 - Stripe Follow Along Nav
+
+<https://16uhv.csb.app/>
