@@ -117,3 +117,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day26 - Stripe Follow Along Nav
 
 <https://16uhv.csb.app/>
+
+## Day27 - Click and Drag
+
+<https://jc735.csb.app/>
