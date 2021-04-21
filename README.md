@@ -125,3 +125,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day28 - Video Speed Controller
 
 <https://2rbw8.csb.app/>
+
+## Day29 - Countdown Timer
+
+<https://wrs0p.csb.app/>
