@@ -129,3 +129,7 @@ Xcode에서 simulator 실행 후 safari에서 동작 확인
 ## Day29 - Countdown Timer
 
 <https://wrs0p.csb.app/>
+
+## Day30 - Whack A Mole
+
+<https://6xoc1.csb.app/>
